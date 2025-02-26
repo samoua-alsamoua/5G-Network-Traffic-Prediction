@@ -61,7 +61,7 @@ The model achieves the following performance metrics on the test set:
 
 
 ## Contact
-For questions or feedback, feel free to reach out:
-- **Name**: Samoua Alsamoua
-- **Email**: https://samoua-alsamoua.github.io/saalsamoua/
-- **GitHub**: https://github.com/samoua-alsamoua
+- **Author**: Samoua Alsamoua
+- **GitHub**: [samoua-alsamoua](https://github.com/samoua-alsamoua)
+- **Website**: [saalsamoua.github.io](https://samoua-alsamoua.github.io/saalsamoua/)
+```
