@@ -36,7 +36,7 @@ To run this project, you need the following dependencies:
 - Pandas
 - Matplotlib
 - Scikit-learn
-
+---
 
 ## Model Architecture
 The LSTM model is implemented using TensorFlow and Keras. The architecture consists of:
